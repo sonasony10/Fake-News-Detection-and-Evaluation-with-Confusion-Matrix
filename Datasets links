@@ -1,0 +1,9 @@
+## 📂 Datasets Links
+
+### 🔗 Old Dataset
+- [Fake News Detection Datasets](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)  
+  Contains `True.csv` and `Fake.csv` with labeled news articles.
+
+### 🔗 New Datasets (BuzzFeed)
+- [BuzzFeed Real News](https://www.kaggle.com/code/sohamohajeri/buzzfeed-news-analysis-and-classification/data?select=BuzzFeed_real_news_content.csv)  
+- [BuzzFeed Fake News](https://www.kaggle.com/code/sohamohajeri/buzzfeed-news-analysis-and-classification/data?select=BuzzFeed_fake_news_content.csv)  
